@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=95&section=header&animation=scaleIn"/>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A92C0&random=false&width=435&lines=Hello+my+name+is+Kevin+Sampaio;I'm+21+years+old;I'm+from+S%C3%A3o+Paulo%2C+SP;I+attend+to+SPTECH;I+am+studying+System+Development;I+hope+you'll+enjoy+my+profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A92C0&random=false&width=435&lines=Hello+my+name+is+Kevin+Peters;I'm+21+years+old;I'm+from+S%C3%A3o+Paulo%2C+SP;I+attend+to+SPTECH;I+am+studying+System+Development;I+hope+you'll+enjoy+my+profile!" alt="Typing SVG" /></a>
 
 
 ## 🌐 Socials:
